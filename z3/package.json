@@ -1,0 +1,24 @@
+{
+  "name": "moj-todo-list",
+  "version": "1.0.0",
+  "description": "Môj TODO List – WEBTE1 Zadanie 3",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.22",
+    "@fullcalendar/daygrid": "^6.1.22",
+    "@fullcalendar/interaction": "^6.1.22",
+    "@fullcalendar/timegrid": "^6.1.22",
+    "@fullcalendar/vue3": "^6.1.22",
+    "vue": "^3.5.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.11",
+    "vite": "^8.3.8"
+  },
+  "private": true,
+  "type": "module"
+}
